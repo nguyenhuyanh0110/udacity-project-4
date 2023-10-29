@@ -4,3 +4,5 @@ opencensus-ext-flask
 redis
 opencensus
 opencensus-ext-logging
+wheel
+gunicorn
