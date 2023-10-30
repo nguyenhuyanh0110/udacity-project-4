@@ -6,3 +6,4 @@ opencensus
 opencensus-ext-logging
 wheel
 gunicorn
+opencensus-ext-requests
